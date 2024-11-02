@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63CD6610-3CEC-4506-A377-549FA966671E}|UnitTest091\\UnitTest091.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\UnitTest091\\UnitTest091.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63CD6610-3CEC-4506-A377-549FA966671E}|UnitTest091\\UnitTest091.vcxproj|solutionrelative:UnitTest091\\UnitTest091.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|solutionrelative:sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|solutionrelative:sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|solutionrelative:dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|solutionrelative:dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|solutionrelative:var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|solutionrelative:var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\Lab_09.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8306028-23DE-4D18-9020-932EA62D30E1}|Lab_09.1.vcxproj|solutionrelative:Lab_09.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab_09.1.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\Lab_09.1.cpp",
+              "RelativeDocumentMoniker": "Lab_09.1.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\Lab_09.1.cpp",
+              "RelativeToolTip": "Lab_09.1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T13:06:55.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest091.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\UnitTest091\\UnitTest091.cpp",
+              "RelativeDocumentMoniker": "UnitTest091\\UnitTest091.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\UnitTest091\\UnitTest091.cpp",
+              "RelativeToolTip": "UnitTest091\\UnitTest091.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T18:14:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "var.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\var.cpp",
+              "RelativeDocumentMoniker": "var.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\var.cpp",
+              "RelativeToolTip": "var.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T13:12:53.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "var.h",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\var.h",
+              "RelativeDocumentMoniker": "var.h",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\var.h",
+              "RelativeToolTip": "var.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T13:07:36.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dod.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\dod.cpp",
+              "RelativeDocumentMoniker": "dod.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\dod.cpp",
+              "RelativeToolTip": "dod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T13:11:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dod.h",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\dod.h",
+              "RelativeDocumentMoniker": "dod.h",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\dod.h",
+              "RelativeToolTip": "dod.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T13:08:13.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sum.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\sum.cpp",
+              "RelativeDocumentMoniker": "sum.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\sum.cpp",
+              "RelativeToolTip": "sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T13:12:40.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sum.h",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\sum.h",
+              "RelativeDocumentMoniker": "sum.h",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_09.1\\sum.h",
+              "RelativeToolTip": "sum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T13:09:51.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
